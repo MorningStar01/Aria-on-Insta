@@ -1,0 +1,11 @@
+In rename:
+-> add support for GIF's , Citate etc (with folders)
+
+
+In app:
+-> def UploadGIF():
+-> def UploadCitate():
+-> add text to posts with functions
+
+Next big shit:
+generate "good" ( good as in god level ) text for posts with gpt-2 or something else
