@@ -7,5 +7,8 @@ In app:
 -> def UploadCitate():
 -> add text to posts with functions
 
-Next big shit:
+The Next big shit:
 generate "good" ( good as in god level ) text for posts with gpt-2 or something else
+
+
+-TBA
