@@ -3,7 +3,6 @@ from instapy_cli import client
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from rename import RenameFiles
-import random
 import time
 import random
 
