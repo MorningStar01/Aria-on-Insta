@@ -11,15 +11,13 @@ def RenameFiles():
         dst = "poza_" + str(i) + ".jpg"
         src = 'C:/Users/Grim/Desktop/Aria on Insta/poze/' + filename
         dst = 'C:/Users/Grim/Desktop/Aria on Insta/poze_final/' + dst
-
-        # rename() function will
-        # rename all the files
+        
         os.rename(src, dst)
         i += 1
 
 
-# Driver Code
+
 if __name__ == '__main__':
 
-    # Calling main() function
+ 
     RenameFiles()
