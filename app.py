@@ -8,8 +8,8 @@ import time
 import random
 
 path = "C:/Users/Grim/Desktop/Aria on Insta/final_q"
-username = "pr.aria"
-password = "ARIA04082019"
+username = "username"
+password = "password"
 
 for x in range(1):
     a = random.uniform(1.0, 9.2) * 3600
