@@ -58,7 +58,7 @@ for idx, val in enumerate(lines):
     #setting up padding and positining for optional text
     """
     current_h3, pad3 = 1200, 30
-    sitelink = "Batch Image Manipulating with Python"
+    sitelink = "???"
     w, h = draw.textsize(sitelink, font=linkfont)
     draw.text(((MAX_W - w) / 2, current_h3), sitelink, font=linkfont)
     current_h3 += h + pad3
