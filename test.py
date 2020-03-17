@@ -7,8 +7,8 @@ import random
 import textwrap
 
 path = "C:/Users/Grim/Desktop/Aria on Insta/__pycache__/poze ish sortate"
-username = "pr.aria"
-password = "ARIA04082019"
+username = "***********"
+password = "***********"
 
 #create lists to store quotes and authors in
 lines = [line.rstrip() for line in open('quotes.csv')]
